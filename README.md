@@ -23,4 +23,4 @@ It provides tools to handle patients, ambulances, and hospital rooms, offering b
 
 
 ## E-R Diagram
-insert here the diagram
+![Description of the relations via Entity-Relationship Diagram](er_diagram.svg)
